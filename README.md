@@ -3,6 +3,16 @@
 	<head>
 		<link rel="stylesheet" href="HOME_IMAGE.css" />
 		<title>Myo Thura Persional</title>
+		<style>
+			.homeimage{
+			 width: 500px;
+	 		 height: 550px;
+			 display: block;
+		 	 margin-left: auto;
+		 	 margin-right: auto;
+			}
+		</style>
+
 	</head>
 	<body>
 		<div>
